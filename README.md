@@ -1,4 +1,5 @@
-Short Overview
+Short Overview.
+
 GitHub Copilot uses generative AI models developed by GitHub, OpenAI, and Microsoft. Copilot recognizes the programming language and the context in which you are developing and offer suggestions on that basis. It offers suggestions based on historical data and within the environment that the developer is in. It is even able to splice in code explanations and answers to users questions on the various GitHub forums. Specifically Copilot is good for code completion, building unit tests, refactoring code, code translation and software documentation.
 
 Audience
